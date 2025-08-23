@@ -75,8 +75,8 @@
 ---
 
 ## 📫 Conecta conmigo
-- ✉️ **Email:** tuemail@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](#)  
+- ✉️ **Email:*luis.albares121@est.unanleon.edu.ni*   
+- 💼 **LinkedIn:** [linkedin.com/in/luis-enrique-albares-soriano-01b071344](#)  
 - 🌐 **Portafolio:** [guardabarrancostudio.com](#)  
 
 ---
